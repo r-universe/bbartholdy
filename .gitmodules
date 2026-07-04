@@ -5,3 +5,6 @@
 [submodule "hitchr"]
 	path = hitchr
 	url = https://github.com/bbartholdy/hitchr
+[submodule "teethr"]
+	path = teethr
+	url = https://codeberg.org/bbartholdy/teethr
